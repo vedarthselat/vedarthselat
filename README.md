@@ -2,9 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Vedarth Kumar Selat</h1>
 <h3 align="center">Aspiring Software Engineer, always gaining knowledge</h3>
-<div style="float: left; margin-right: 10px;">
-  ![8005325]()
 
+<br/>
+<div style="float: left; margin-right: 10px;">
+  <img src="https://github.com/vedarthselat/vedarthselat/blob/main/8005325.jpeg?raw=true" alt="8005325" align="right" width="350em" height="300em" />
 </div>
 
 
