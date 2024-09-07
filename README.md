@@ -1,6 +1,8 @@
+![360_F_278374738_ypRn0utOVnebuhmpSrDiwkzFsdqEm0aa](https://github.com/user-attachments/assets/bf8c6022-ac29-426b-a6fc-119883ffb389)
+
 <h1 align="center">Hi 👋, I'm Vedarth Kumar Selat</h1>
 <h3 align="center">Aspiring Software Engineer, always gaining knowledge</h3>
-<img align=“right” alt=“Coding” width=“400” src=“https://t3.ftcdn.net/jpg/06/01/17/18/360_F_601171862_l7yZ0wujj8o2SowiKTUsfLEEx8KunYNd.jpg”>
+<img align=“right” alt=“Coding” width=“400” src=“”>
 
 - 🔭 I’m currently working on **React, Node and PyTorch**
 
