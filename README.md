@@ -2,7 +2,10 @@
 
 <h1 align="center">Hi 👋, I'm Vedarth Kumar Selat</h1>
 <h3 align="center">Aspiring Software Engineer, always gaining knowledge</h3>
-<img align=“right” alt=“Coding” width=“400” src=“./8005325.jpeg”>
+<div style="float: left; margin-right: 10px;">
+  ![Image description](image_url_here)
+</div>
+
 
 - 🔭 I’m currently working on **React, Node and PyTorch**
 
@@ -12,7 +15,7 @@
 
 - 📫 How to reach me **vedarthselat17@gmail.com**
 
-- ⚡ Fun fact **I am not just into coding, but into gym, music and overall development too**
+- ⚡ Fun fact **I am not just into coding, but into the gym, music, and overall development too**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
