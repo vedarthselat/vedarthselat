@@ -2,6 +2,9 @@
 
 <h1 align="center">Hi 👋, I'm Vedarth Kumar Selat</h1>
 <h3 align="center">Aspiring Software Engineer, always gaining knowledge</h3>
+<div style="float: left; margin-right: 10px;">
+  ![Image description](image_url_here)
+</div>
 
 
 - 🔭 I’m currently working on **React, Node and PyTorch**
