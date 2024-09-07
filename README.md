@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Vedarth Kumar Selat</h1>
 <h3 align="center">Aspiring Software Engineer, always gaining knowledge</h3>
-<img align=“right” alt=“Coding” width=“400” src=“”>
+<img align=“right” alt=“Coding” width=“400” src=“./8005325.jpeg”>
 
 - 🔭 I’m currently working on **React, Node and PyTorch**
 
