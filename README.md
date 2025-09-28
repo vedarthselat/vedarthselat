@@ -30,6 +30,10 @@
   <a href="https://linkedin.com/in/vedarth-selat-7096b230b" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vedarth-selat-7096b230b" height="30" width="40" />
   </a>
+  <a href="https://leetcode.com/u/vedarthselat/" target="_blank">
+  <img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="LeetCode Profile" height="30" width="40" />
+</a>
+
   <a href="https://instagram.com/veddaarrrttthhh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veddaarrrttthhh" height="30" width="40" />
   </a>
